@@ -7,3 +7,7 @@ Thanks to the Creative Commons Zero license, you are free to read, share, modify
 Special thanks to the authors, contributors, and sponsors who made this project happen! You will find their names in the summary and on the back cover, respectively.
 
 Together, let's bring the cypherpunk spirit back into the mainstream and focus on the fundamentals that matter!
+
+If you only want to read the magazine online, use this link: https://bitcoin-takeover.com/privacymag/
+
+For donations, use this page. The proceedings will be used to grow the project and produce more magazine copies for various events and causes: https://bitcoin-takeover.com/donate/
